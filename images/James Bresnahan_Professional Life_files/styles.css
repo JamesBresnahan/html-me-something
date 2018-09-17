@@ -1,0 +1,24 @@
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+    width: 100%;
+    color: red;
+    
+}
+
+h1 {
+    font-size: 32px;
+    color: red;
+}
+
+#title{
+    color:lightgray;
+    padding: 10px;
+    border-color:darkgray;
+    margin: 30px;
+
+
+}
+

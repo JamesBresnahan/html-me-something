@@ -1,0 +1,67 @@
+body {
+    
+}
+
+h1 {
+
+    color: red;
+}
+h3 {
+    border:solid 2px;
+    border-color:darkgray;;
+    width: 200px;
+    padding: 5px;
+    margin-top: 40px;
+    margin-bottom:20px;
+}
+p {
+    padding-left:30px;
+}
+
+.banner{
+    border: solid 5px;
+    border-color:darkgray;
+    width:350px;
+    height:100px;
+    margin: 10px;
+    padding: 10px;
+    color: darkgray;
+    text-align:left;
+
+
+}
+
+#title{
+    color:darkgray;
+    padding:3px;
+    margin:3px;
+    font-size: 32px;
+
+}
+
+.Resume{
+    text-align:left;
+    color:dimgray;
+    width: 800px;
+    margin: 20px;
+    padding:50px;
+    padding-bottom:10px;
+}
+#logos{
+    height: 50px;
+    width:50px;
+    display: inline;
+}
+
+#Resume-Head{
+    border: solid 2px;
+    border-color: darkgray;
+    font-size: 24px;
+}
+
+.Contact-Me{
+    display: inline;
+    padding-left: 200px;
+
+}
+
